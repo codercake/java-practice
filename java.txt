@@ -1,0 +1,34 @@
+It is a REPL language with jshell that was introduced in Java 9 and helps to print a specific statement. Re eval out of loops. 
+Java is a statically typed language.
+In a local variable, assign the value not in Instance(Global) variable.
+Multiple Inheritance is not possible in java due to ambiguity issue.
+As the preference is given more to the local variable, it uses the 'this' keyword to denote the current object variable. 
+
+Two types of Polymorphism:
+1. Compile-time; specified with params/args.
+2. Run-time; not specified with params/args.
+
+Access Modifiers:
+1. Public 
+2. Private
+3. Protected
+4. Default
+
+Final keyword:
+1. When you make a class final the inheritance ends.
+2. Final can be used with a variable, which makes it a constant.
+3. Final can be used with a method, which makes it non-overridable. 
+4. Final can be used with a class, to ensure that your class can be inherited respectively. 
+
+String pool- changed value, into a string literalin Heap memory.
+Change data is called StringBuffer, thread-safe process
+
+Types of Errors:
+1. Compile-time errors
+2. Logical errors
+3. Runtime errors, exceeded the runtime limit 
+
+Exceptions:
+IOException - use Try Catch, throws IOException
+1. Checked
+2. Unchecked - Compiler won't check basically ignore them. 
